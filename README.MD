@@ -1,4 +1,7 @@
-Livro de receitas 
+Livro de receitas :cheese:
 
-ola! bem vindo a lista de receitas
+### Olá, bem vindo ao livro de receitas
+
+* strogonoff de frango
+* bolo 
 
